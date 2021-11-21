@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+.W{
+    padding-top: 40px;
+    margin-left: 30px;
+    font-size: 25px;
+}
+.l{
+    margin-left: 30px;
+    font-size:small;
+    line-height: 1.25;
+}
+.c{
+    margin-left: 30px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.d{
+    width:96%;
+    margin-bottom: 5px;
+}
+.e{
+    margin-left: 30px;
+    line-height: 4px;
+}
+.f{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+.g,.j,.m{
+    margin-top: 30px;
+    margin-left: 30px ;
+    font-size: 20px;
+}
+.h,.k,.n{
+    width:96%;
+    margin-bottom: 5px;
+}
+.i{
+    margin-left: 30px;
+}
+.l{
+    margin-left: 30px;
+    font-size: 15px;
+}
+.o{
+    margin-left: 30px; 
+}
+.hh{
+    margin-left: 30px;
+    border-collapse:collapse;
+    width:96%;
+}
+.ss{
+    height:70px;
+    vertical-align: top;
+}
+tr:nth-child(1){
+    background-color:#a19a9a;
+}
+tr:nth-child(2){
+    background-color:#ebe6e6;
+}
+tr:nth-child(3){
+    background-color:#acabb3;
+}
+tr:nth-child(4){
+    background-color:#c1e0db;
+}
+tr:nth-child(5){
+    background-color:#dde8d3;
+}
+tr:nth-child(6){
+    background-color:#e6e0b8;
+}
+tr:nth-child(7){
+    background-color:#e6cfb8;
+}
+tr:nth-child(8){
+    background-color:#e6cfb8;
+}
